@@ -5,10 +5,10 @@ export default function Navbar() {
     return (
         <header className="header">
             <div className="brand-row">
-                <img src="https://avatars.githubusercontent.com/u/228281554?s=400&u=c55b4b7edd83b45e689be120077ceab8735faf79&v=4" alt="Logo" className="logo" />
+                <img src="https://avatars.githubusercontent.com/u/126437195?s=400&u=f0f2056d560d7acbfc1e7ac19960fbeb75f81909&v=4" alt="Logo" className="logo" />
                 <div>
-                    <h1 className="title"><span className="brand">ravizenx</span>Blog</h1>
-                    <p className="tagline">Personal blog about python, ai and machine learning.</p>
+                    <h1 className="title"><span className="brand">Novaenergon</span>Blog</h1>
+                    <p className="tagline">Blog about python, ai and machine learning.</p>
                 </div>
             </div>
 
